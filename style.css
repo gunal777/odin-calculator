@@ -18,6 +18,17 @@ body{
     box-sizing: border-box;
 }
 
+.opr {
+    background-color: hsl(180, 74%, 49%);
+}
+
+.opr:hover {
+    background-color: hsl(180, 74%, 40%);
+}
+
+.opr:active {
+    background-color: hsl(180, 74%, 30%);
+}
 
 #container{
     background-color: hsl(0, 0%, 15%);
